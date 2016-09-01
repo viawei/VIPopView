@@ -11,7 +11,7 @@
 @interface VIPopView : UIView
 
 /**
- *  <#Description#>
+ *  Description
  *
  *  @param frame       视图在window层的位置
  *  @param titleArray  文字数组
