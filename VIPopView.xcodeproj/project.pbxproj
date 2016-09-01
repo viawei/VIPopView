@@ -14,7 +14,7 @@
 		3593160D1D76B94E00FB6F8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3593160C1D76B94E00FB6F8C /* Assets.xcassets */; };
 		359316101D76B94E00FB6F8C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3593160E1D76B94E00FB6F8C /* LaunchScreen.storyboard */; };
 		359316191D76B99700FB6F8C /* VIPopView.m in Sources */ = {isa = PBXBuildFile; fileRef = 359316181D76B99700FB6F8C /* VIPopView.m */; };
-		359316251D78047E00FB6F8C /* GIF.gif in Resources */ = {isa = PBXBuildFile; fileRef = 359316241D78047E00FB6F8C /* GIF.gif */; };
+		359316251D78047E00FB6F8C /* PopGIF.gif in Resources */ = {isa = PBXBuildFile; fileRef = 359316241D78047E00FB6F8C /* PopGIF.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,7 +30,7 @@
 		359316111D76B94E00FB6F8C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		359316171D76B99700FB6F8C /* VIPopView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VIPopView.h; sourceTree = "<group>"; };
 		359316181D76B99700FB6F8C /* VIPopView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VIPopView.m; sourceTree = "<group>"; };
-		359316241D78047E00FB6F8C /* GIF.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = GIF.gif; sourceTree = "<group>"; };
+		359316241D78047E00FB6F8C /* PopGIF.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = PopGIF.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +63,7 @@
 		359315FF1D76B94E00FB6F8C /* VIPopView */ = {
 			isa = PBXGroup;
 			children = (
-				359316241D78047E00FB6F8C /* GIF.gif */,
+				359316241D78047E00FB6F8C /* PopGIF.gif */,
 				359316171D76B99700FB6F8C /* VIPopView.h */,
 				359316181D76B99700FB6F8C /* VIPopView.m */,
 				359316031D76B94E00FB6F8C /* AppDelegate.h */,
@@ -145,7 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				359316101D76B94E00FB6F8C /* LaunchScreen.storyboard in Resources */,
-				359316251D78047E00FB6F8C /* GIF.gif in Resources */,
+				359316251D78047E00FB6F8C /* PopGIF.gif in Resources */,
 				3593160D1D76B94E00FB6F8C /* Assets.xcassets in Resources */,
 				3593160B1D76B94E00FB6F8C /* Main.storyboard in Resources */,
 			);
