@@ -1,6 +1,6 @@
 # VIPopView
 一行代码添加有动画效果的弹窗，可以设置其锚点
-![image](https://github.com/viawei/VIPopView/blob/master/VIPopView/GIF.gif)
+![image](https://github.com/viawei/VIPopView/blob/master/VIPopView/PopGIF.gif)
 
 使用方法：
 
